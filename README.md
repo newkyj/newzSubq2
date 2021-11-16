@@ -56,6 +56,10 @@ query {
   }
 }
 ```
+Output
+
+![alt text](https://i.imgur.com/R2doRzU.png)
+
 
 # Understanding this project
 
